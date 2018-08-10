@@ -1,6 +1,6 @@
 # Resources
 
-<!-- → ↠ ↣ ↦ ⇒ ⇻ ⇸ -->
+<!-- → ↠ ↣ ↦ ⇒ ⇻ ⇸ ─ -->
 
 
 ## Magento
@@ -24,8 +24,8 @@
 - [documentation](https://docs.mirasvit.com/doc/extension_fpc/current)
 - [changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/extension_fpc)
-- test :: [fpc1937.mao | FrontEnd](http://fpc1937.mao.mirasvit.com)
-- test :: [fpc1937.mao | Admin](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)
+- [fpc1937.mao → FrontEnd](http://fpc1937.mao.mirasvit.com)
+- [fpc1937.mao → Admin](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)
 
 
 #### Magento 2 → Page Cache Warmer
@@ -35,8 +35,8 @@
 - [documentation](https://mirasvit.com/docs/module-cache-warmer/current)
 - [changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/module-cache-warmer)
-- test :: [cache-warmer223.mao | FrontEnd](http://cache-warmer223.mao.mirasvit.com)
-- test :: [cache-warmer223.mao | Admin](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)
+- [cache-warmer223.mao → FrontEnd](http://cache-warmer223.mao.mirasvit.com)
+- [cache-warmer223.mao → Admin](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)
 
 
 
@@ -49,8 +49,8 @@
 - [documentation](https://mirasvit.com/docs/module-seo/current)
 - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/extension_seo)
-- test :: [seom1.mao | FrontEnd]
-- test :: [seom1.mao | Admin]
+- [seom1.mao → FrontEnd]
+- [seom1.mao → Admin]
 
 #### Magento 2 → Advanced SEO Suite
 - Name: **Advanced SEO Suite** module
@@ -59,8 +59,8 @@
 - [documentation](https://mirasvit.com/docs/module-seo/current)
 - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/module-seo)
-- test :: [cache-warmer223.mao | FrontEnd](http://seo.mao.mirasvit.com)
-- test :: [cache-warmer223.mao | Admin](http://seo.mao.mirasvit.com/mageadmin/admin)
+- [seo.mao → FrontEnd](http://seo.mao.mirasvit.com)
+- [seo.mao → Admin](http://seo.mao.mirasvit.com/mageadmin/admin)
 
 
 
