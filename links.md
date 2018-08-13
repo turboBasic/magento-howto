@@ -49,8 +49,8 @@
 - [documentation](https://mirasvit.com/docs/module-seo/current)
 - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/extension_seo)
-- [seom1.mao → FrontEnd]
-- [seom1.mao → Admin]
+- [seosuite1937.mao → FrontEnd](http://seosuite1937.mao.mirasvit.com)
+- [seosuite1937.mao → Admin](http://seosuite1937.mao.mirasvit.com/mageadmin)
 
 #### Magento 2 → Advanced SEO Suite
 - Name: **Advanced SEO Suite** module
