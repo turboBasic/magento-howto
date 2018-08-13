@@ -46,7 +46,7 @@
 - Name: **Advanced SEO Suite** extension
 - [product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)
 - [demo site](http://seo19.demo.mirasvit.com)
-- [documentation](https://mirasvit.com/docs/module-seo/current)
+- [documentation](https://docs.mirasvit.com/doc/extension_seosuite/current)
 - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)
 - internal :: [github repository](https://github.com/mirasvit/extension_seo)
 - [seosuite1937.mao → FrontEnd](http://seosuite1937.mao.mirasvit.com)
