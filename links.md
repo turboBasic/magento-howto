@@ -17,7 +17,7 @@
 | FPC | FPC | SEO | SEO 
 |---|---|---|---
 |Magento 1|Magento 2|Magento 1|Magento 2
-|Full Page Cache|Page Cache Warmer|Advanced SEO suite|Advanced SEO suite
+|**Full Page Cache**|**Page Cache Warmer**|**Advanced SEO suite**|**Advanced SEO suite**
 |[product page](https://mirasvit.com/magento-extensions/full-page-cache.html)|[product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)|[product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)|[product page](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html)
 |[demo site](http://fpc19.demo.mirasvit.com)|[demo site](http://cache-warmer.m2.mirasvit.com)|[demo site](http://seo19.demo.mirasvit.com)|[demo site](http://seo.m2.mirasvit.com)
 |[documentation](https://docs.mirasvit.com/doc/extension_fpc/current)|[documentation](https://mirasvit.com/docs/module-cache-warmer/current)|[documentation](https://docs.mirasvit.com/doc/extension_seosuite/current)|[documentation](https://mirasvit.com/docs/module-seo/current)
