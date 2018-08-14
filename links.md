@@ -45,24 +45,3 @@
 | &emsp; - [seosuite1937.mao → FrontEnd](http://seosuite1937.mao.mirasvit.com)        | &emsp; - [seo.mao → FrontEnd](http://seo.mao.mirasvit.com)
 | &emsp; - [seosuite1937.mao → Admin](http://seosuite1937.mao.mirasvit.com/mageadmin) | &emsp; - [seo.mao → Admin](http://seo.mao.mirasvit.com/mageadmin/admin)
 
-
-
-#### other
-
-<!--
-| M1 → **Full Page Cache** | M2 → **Page Cache Warmer** | M1 -> **Advanced SEO Suite** | M2 → **Advanced SEO Suite** |
-|:-------------------------|:---------------------------|:-----------------------------|:----------------------------|
-| [product page](https://mirasvit.com/magento-extensions/full-page-cache.html) | [product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html) | [product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html) | [product page](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html) |
-| [demo site] | | | |
-
-
-
-- Magento 2 → 
-- Magento 2 → 
-- Magento 2 → 
-- Magento 2 → 
-- Magento 2 → 
-- Magento 2 → 
-
-
--->
