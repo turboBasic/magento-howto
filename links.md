@@ -20,7 +20,7 @@
 Magento 1                     | Magento 2
 ------------------------------|------------------------------
 **Full Page Cache** extension | **Page Cache Warmer** module
- - [product page](https://mirasvit.com/magento-extensions/full-page-cache.html) | - [product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)
+| - [product page](https://mirasvit.com/magento-extensions/full-page-cache.html) | - [product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html) |
  - [demo site](http://fpc19.demo.mirasvit.com) | - [demo site](http://cache-warmer.m2.mirasvit.com)
  - [documentation](https://docs.mirasvit.com/doc/extension_fpc/current) | - [documentation](https://mirasvit.com/docs/module-cache-warmer/current)
  - [changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)| - [changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog)
