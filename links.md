@@ -14,7 +14,21 @@
 
 ## Mirasvit
 
+| FPC | FPC | SEO | SEO 
+|---|---|---|---
+|Magento 1|Magento 2|Magento 1|Magento 2
+|Full Page Cache|Page Cache Warmer|Advanced SEO suite|Advanced SEO suite
+|[product page](https://mirasvit.com/magento-extensions/full-page-cache.html)|[product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)|[product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)|[product page](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html)
+|[demo site](http://fpc19.demo.mirasvit.com)|[demo site](http://cache-warmer.m2.mirasvit.com)|[demo site](http://seo19.demo.mirasvit.com)|[demo site](http://seo.m2.mirasvit.com)
+|[documentation](https://docs.mirasvit.com/doc/extension_fpc/current)|[documentation](https://mirasvit.com/docs/module-cache-warmer/current)|[documentation](https://docs.mirasvit.com/doc/extension_seosuite/current)|[documentation](https://mirasvit.com/docs/module-seo/current)
+|[changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)|[changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog)|[changelog](https://mirasvit.com/docs/module-seo/current/changelog)|[changelog](https://mirasvit.com/docs/module-seo/current/changelog)
+| | | | 
+|[*Github*](https://github.com/mirasvit/extension_fpc)|[*Github*](https://github.com/mirasvit/module-cache-warmer)|[*Github*](https://github.com/mirasvit/extension_seo)|[*Github*](https://github.com/mirasvit/module-seo)
+|[FrontEnd→*fpc1937*](http://fpc1937.mao.mirasvit.com)|[FrontEnd→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com)|[FrontEnd→*seosuite1937*](http://seosuite1937.mao.mirasvit.com)|[FrontEnd→*seo*](http://seo.mao.mirasvit.com)
+|[Admin→*fpc1937*](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[Admin→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)|[Admin→*seosuite1937*](http://seosuite1937.mao.mirasvit.com/mageadmin)|[Admin→*seo*](http://seo.mao.mirasvit.com/mageadmin/admin)
 
+
+<!--
 ### Cache
 
 | Magento 1                     | Magento 2 |
@@ -48,29 +62,4 @@
 
 ### all
 
-|                    |FPC                                                                                       |FPC                                                                          |SEO                                                                    |SEO                                                                      |
-|--------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|
-|                    |Magento 1                                                                                 |Magento 2                                                                    |Magento 1                                                              |Magento 2                                                                |
-|                    |Full Page Cache                                                                           |Page Cache Warmer                                                            |Advanced SEO suite                                                     |Advanced SEO suite                                                       |
-|product page        |[link](https://mirasvit.com/magento-extensions/full-page-cache.html)                      |[link](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)|[link](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)|[link](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html)|
-|demo site           |[link](http://fpc19.demo.mirasvit.com)                                                    |[link](http://cache-warmer.m2.mirasvit.com)                                  |[link](http://seo19.demo.mirasvit.com)                                 |[link](http://seo.m2.mirasvit.com)                                       |
-|documentation       |[link](https://docs.mirasvit.com/doc/extension_fpc/current)                               |[link](https://mirasvit.com/docs/module-cache-warmer/current)                |[link](https://docs.mirasvit.com/doc/extension_seosuite/current)       |[link](https://mirasvit.com/docs/module-seo/current)                     |
-|changelog           |[link](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)                     |[link](https://mirasvit.com/docs/module-cache-warmer/current/changelog)      |[link](https://mirasvit.com/docs/module-seo/current/changelog)         |[link](https://mirasvit.com/docs/module-seo/current/changelog)           |
-|internal::          |                                                                                          |                                                                             |                                                                       |                                                                         |
-|-- github repository|[link](https://github.com/mirasvit/extension_fpc)                                         |[link](https://github.com/mirasvit/module-cache-warmer)                      |[link](https://github.com/mirasvit/extension_seo)                      |[link](https://github.com/mirasvit/module-seo)                           |
-|-- FrontEnd         |[link](http://fpc1937.mao.mirasvit.com)                                                   |[link](http://cache-warmer223.mao.mirasvit.com)                              |[link](http://seosuite1937.mao.mirasvit.com)                           |[link](http://seo.mao.mirasvit.com)                                      |
-|-- Admin            |[link](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[link](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)              |[link](http://seosuite1937.mao.mirasvit.com/mageadmin)                 |[link](http://seo.mao.mirasvit.com/mageadmin/admin)                      |
-
-
-|             | FPC | FPC | SEO | SEO 
-|-------------|---|---|---|---
-|             |Magento 1|Magento 2|Magento 1|Magento 2
-|             |Full Page Cache|Page Cache Warmer|Advanced SEO suite|Advanced SEO suite
-|product page |[product page](https://mirasvit.com/magento-extensions/full-page-cache.html)|[product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)|[product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)|[product page](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html)
-|demo site    |[demo site](http://fpc19.demo.mirasvit.com)|[demo site](http://cache-warmer.m2.mirasvit.com)|[demo site](http://seo19.demo.mirasvit.com)|[demo site](http://seo.m2.mirasvit.com)
-|documentation|[documentation](https://docs.mirasvit.com/doc/extension_fpc/current)|[documentation](https://mirasvit.com/docs/module-cache-warmer/current)|[documentation](https://docs.mirasvit.com/doc/extension_seosuite/current)|[documentation](https://mirasvit.com/docs/module-seo/current)
-|changelog    |[changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)|[changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog)|[changelog](https://mirasvit.com/docs/module-seo/current/changelog)|[changelog](https://mirasvit.com/docs/module-seo/current/changelog)
-|internal::   | | | | 
-|*Github*     |[*Github*](https://github.com/mirasvit/extension_fpc)|[*Github*](https://github.com/mirasvit/module-cache-warmer)|[*Github*](https://github.com/mirasvit/extension_seo)|[*Github*](https://github.com/mirasvit/module-seo)
-|*FrontEnd*   |[*FrontEnd*](http://fpc1937.mao.mirasvit.com)|[*FrontEnd*](http://cache-warmer223.mao.mirasvit.com)|[*FrontEnd*](http://seosuite1937.mao.mirasvit.com)|[*FrontEnd*](http://seo.mao.mirasvit.com)
-|*Admin*      |[*Admin*](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[*Admin*](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)|[*Admin*](http://seosuite1937.mao.mirasvit.com/mageadmin)|[*Admin*](http://seo.mao.mirasvit.com/mageadmin/admin)
+-->
