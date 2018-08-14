@@ -25,9 +25,9 @@
 | - [documentation](https://docs.mirasvit.com/doc/extension_fpc/current) | - [documentation](https://mirasvit.com/docs/module-cache-warmer/current) |
 | - [changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)| - [changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog) |
 | <br> _internal_:: | <br> _internal_:: |
-| + [github repository](https://github.com/mirasvit/extension_fpc) | - [github repository](https://github.com/mirasvit/module-cache-warmer)
-| + [fpc1937.mao → FrontEnd](http://fpc1937.mao.mirasvit.com) | - [cache-warmer223.mao → FrontEnd](http://cache-warmer223.mao.mirasvit.com)
-| + [fpc1937.mao → Admin](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc) | - [cache-warmer223.mao → Admin](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)
+| &emsp; - [github repository](https://github.com/mirasvit/extension_fpc) | &emsp; - [github repository](https://github.com/mirasvit/module-cache-warmer)
+| &emsp; - [fpc1937.mao → FrontEnd](http://fpc1937.mao.mirasvit.com) | &emsp; - [cache-warmer223.mao → FrontEnd](http://cache-warmer223.mao.mirasvit.com)
+| &emsp; - [fpc1937.mao → Admin](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc) | &emsp; - [cache-warmer223.mao → Admin](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)
 
 
 
