@@ -1,0 +1,8 @@
+[Unit]
+Description=Static HTTP server
+
+[Service]
+ExecStart=/home/mao/bin/start-staticwebserver.sh
+
+[Install]
+WantedBy=multi-user.target
