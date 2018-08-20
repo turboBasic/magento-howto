@@ -1,0 +1,30 @@
+# based on article: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+#
+# PhpStorm local settings and configurations
+# Files inside .idea/: workspace.xml, usage.statistics.xml, and tasks.xml files which store user specific settings
+.idea/**/workspace.xml
+.idea/**/usage.statistics.xml
+.idea/**/tasks.xml
+
+# All the .iml module files that can be located in different module directories (applies to IntelliJ IDEA)
+*.iml
+
+# Be careful about sharing the following:
+#
+# - Android artifacts that produce a signed build (will contain keystore passwords)
+# - In IDEA 13 and earlier:
+#   - dataSources.ids
+#   - datasources.xml can contain database passwords. IDEA 14 solves this problem.
+#
+#
+# You may consider not to share the following:
+#
+# - .iml files and .idea/modules.xml file for the Gradle or Maven based projects,
+#   since these files will be generated on import
+# - gradle.xml file, see this discussion
+# - user dictionaries folder (to avoid conflicts if other developer has the same name)
+# - XML files under .idea/libraries in case they are generated from Gradle or Maven project
+
+
+# this project only
+/tmp*
