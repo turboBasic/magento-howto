@@ -27,6 +27,6 @@
 |[FrontEnd→*fpc1937*](http://fpc1937.mao.mirasvit.com)|[FrontEnd→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com)|[FrontEnd→*seosuite1937*](http://seosuite1937.mao.mirasvit.com)|[FrontEnd→*seo*](http://seo.mao.mirasvit.com)
 |[Admin→*fpc1937*](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[Admin→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)|[Admin→*seosuite1937*](http://seosuite1937.mao.mirasvit.com/mageadmin)|[Admin→*seo*](http://seo.mao.mirasvit.com/mageadmin/admin)
 | | | |
-| [cron log](http://debug.mao.mirasvit.com/logs.php?site=fpc1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=cache-warmer223&log=magento.cron) | [cron log](http://seo-suite1937.dev/var/log/cron.log) | [cron log](http://seo.dev/var/log/magento.cron.log)
+| [cron log](http://debug.mao.mirasvit.com/logs.php?site=fpc1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=cache-warmer223&log=magento.cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=seo-suite1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=seo&log=magento.cron)
 | [crontab root](http://debug.mao.mirasvit.com/crontab.php?user=root) | [crontab mao](http://debug.mao.mirasvit.com/crontab.php?user=mao) | [crontab www-data](http://debug.mao.mirasvit.com/crontab.php?user=www-data) |
 
