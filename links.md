@@ -26,7 +26,8 @@
 |[*Github*](https://github.com/mirasvit/extension_fpc)|[*Github*](https://github.com/mirasvit/module-cache-warmer)|[*Github*](https://github.com/mirasvit/extension_seo)|[*Github*](https://github.com/mirasvit/module-seo)
 |[FrontEnd→*fpc1937*](http://fpc1937.mao.mirasvit.com)|[FrontEnd→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com)|[FrontEnd→*seosuite1937*](http://seosuite1937.mao.mirasvit.com)|[FrontEnd→*seo*](http://seo.mao.mirasvit.com)
 |[Admin→*fpc1937*](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[Admin→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)|[Admin→*seosuite1937*](http://seosuite1937.mao.mirasvit.com/mageadmin)|[Admin→*seo*](http://seo.mao.mirasvit.com/mageadmin/admin)
-
+| | | |
+| [cron log](file://mst/projects/fpc1937/src/var/log/cron.log) | [cron log](file://mst/projects/cache-warmer223/src/var/log/magento.cron.log) | [cron log](file://mst/projects/seo-suite1937/src/var/log/cron.log) | [cron log](file://mst/projects/seo/src/var/log/magento.cron.log)
 
 <!--
 ### Cache
