@@ -27,41 +27,6 @@
 |[FrontEnd→*fpc1937*](http://fpc1937.mao.mirasvit.com)|[FrontEnd→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com)|[FrontEnd→*seosuite1937*](http://seosuite1937.mao.mirasvit.com)|[FrontEnd→*seo*](http://seo.mao.mirasvit.com)
 |[Admin→*fpc1937*](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc)|[Admin→*cache-warmer223*](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)|[Admin→*seosuite1937*](http://seosuite1937.mao.mirasvit.com/mageadmin)|[Admin→*seo*](http://seo.mao.mirasvit.com/mageadmin/admin)
 | | | |
-| [cron log](http://fpc1937.dev/var/log/cron.log) | [cron log](http://cache-warmer223.dev/var/log/magento.cron.log) | [cron log](http://seo-suite1937.dev/var/log/cron.log) | [cron log](http://seo.dev/var/log/magento.cron.log)
-| [crontab root](http://debug.dev/crontab.php?u=root) | [crontab mao](http://debug.dev/crontab.php?u=mao) | [crontab www-data](http://debug.dev/crontab.php?u=www-data) |
+| [cron log](http://debug.mao.mirasvit.com/logs.php?site=fpc1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=cache-warmer223&log=magento.cron) | [cron log](http://seo-suite1937.dev/var/log/cron.log) | [cron log](http://seo.dev/var/log/magento.cron.log)
+| [crontab root](http://debug.mao.mirasvit.com/crontab.php?user=root) | [crontab mao](http://debug.mao.mirasvit.com/crontab.php?user=mao) | [crontab www-data](http://debug.mao.mirasvit.com/crontab.php?user=www-data) |
 
-<!--
-### Cache
-
-| Magento 1                     | Magento 2 |
-|-------------------------------|-----------|
-| **Full Page Cache** extension | **Page Cache Warmer** module
-| - [product page](https://mirasvit.com/magento-extensions/full-page-cache.html)                                     | - [product page](https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html)
-| - [demo site](http://fpc19.demo.mirasvit.com)                                                                      | - [demo site](http://cache-warmer.m2.mirasvit.com)
-| - [documentation](https://docs.mirasvit.com/doc/extension_fpc/current)                                             | - [documentation](https://mirasvit.com/docs/module-cache-warmer/current)
-| - [changelog](https://docs.mirasvit.com/doc/extension_fpc/current/changelog)                                       | - [changelog](https://mirasvit.com/docs/module-cache-warmer/current/changelog)
-| <br> internal:: | <br> internal:: |
-| &emsp; - [github repository](https://github.com/mirasvit/extension_fpc)                                            | &emsp; - [github repository](https://github.com/mirasvit/module-cache-warmer)
-| &emsp; - [fpc1937.mao → FrontEnd](http://fpc1937.mao.mirasvit.com)                                                 | &emsp; - [cache-warmer223.mao → FrontEnd](http://cache-warmer223.mao.mirasvit.com)
-| &emsp; - [fpc1937.mao → Admin](http://fpc1937.mao.mirasvit.com/index.php/mageadmin/system_config/edit/section/fpc) | &emsp; - [cache-warmer223.mao → Admin](http://cache-warmer223.mao.mirasvit.com/mageadmin/admin)
-
-
-
-### SEO
-
-| Magento 1                        | Magento 2 |
-|----------------------------------|-----------|
-| **Advanced SEO Suite** extension | **Advanced SEO Suite** module
-| - [product page](https://mirasvit.com/magento-extensions/advanced-seo-suite.html)   | - [product page](https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html)
-| - [demo site](http://seo19.demo.mirasvit.com)                                       | - [demo site](http://seo.m2.mirasvit.com)
-| - [documentation](https://docs.mirasvit.com/doc/extension_seosuite/current)         | - [documentation](https://mirasvit.com/docs/module-seo/current)
-| - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)               | - [changelog](https://mirasvit.com/docs/module-seo/current/changelog)
-| <br> internal:: | <br> internal:: |
-| &emsp; - [github repository](https://github.com/mirasvit/extension_seo)             | &emsp; - [github repository](https://github.com/mirasvit/module-seo)
-| &emsp; - [seosuite1937.mao → FrontEnd](http://seosuite1937.mao.mirasvit.com)        | &emsp; - [seo.mao → FrontEnd](http://seo.mao.mirasvit.com)
-| &emsp; - [seosuite1937.mao → Admin](http://seosuite1937.mao.mirasvit.com/mageadmin) | &emsp; - [seo.mao → Admin](http://seo.mao.mirasvit.com/mageadmin/admin)
-
-
-### all
-
--->
