@@ -32,5 +32,5 @@
 
 ## 3rd party
 
-[Magento1: AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
-[Magento2: Cron Schedule module](https://github.com/shockwavemk/magento2-module-cron-schedule)
+- [Magento1: AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
+- [Magento2: Cron Schedule module](https://github.com/shockwavemk/magento2-module-cron-schedule)
