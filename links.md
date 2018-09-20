@@ -30,3 +30,7 @@
 | [cron log](http://debug.mao.mirasvit.com/logs.php?site=fpc1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=cache-warmer223&log=magento.cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=seo-suite1937&log=cron) | [cron log](http://debug.mao.mirasvit.com/logs.php?site=seo&log=magento.cron)
 | [crontab root](http://debug.mao.mirasvit.com/crontab.php?user=root) | [crontab mao](http://debug.mao.mirasvit.com/crontab.php?user=mao) | [crontab www-data](http://debug.mao.mirasvit.com/crontab.php?user=www-data) |
 
+## 3rd party
+
+[Magento1: AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
+[Magento2: Cron Schedule module](https://github.com/shockwavemk/magento2-module-cron-schedule)
