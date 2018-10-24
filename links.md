@@ -34,3 +34,6 @@
 
 - [Magento1: AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
 - [Magento2: Cron Schedule module](https://github.com/shockwavemk/magento2-module-cron-schedule)
+- [Magento2: Cron Scheduler by KiwiCommerce](https://kiwicommerce.co.uk/docs/cron-scheduler/)
+- [Magento2: Regenerate Url rewrites](https://github.com/olegkoval/magento2-regenerate_url_rewrites) extension by Oleg Koval
+- [Magento2: Varnish warmer](https://github.com/lizardmedia/varnish-warmer-magento2) - module for handling Varnish cache (flushing, regenerating)
