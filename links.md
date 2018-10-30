@@ -37,3 +37,4 @@
 - [Magento2: Cron Scheduler by KiwiCommerce](https://kiwicommerce.co.uk/docs/cron-scheduler/)
 - [Magento2: Regenerate Url rewrites](https://github.com/olegkoval/magento2-regenerate_url_rewrites) extension by Oleg Koval
 - [Magento2: Varnish warmer](https://github.com/lizardmedia/varnish-warmer-magento2) - module for handling Varnish cache (flushing, regenerating)
+- [Magento2: Cadence's UrlDedup](https://github.com/cadencelabs/urldedup) - Category & Product url de-duplication
