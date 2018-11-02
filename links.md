@@ -14,6 +14,74 @@
 
 ## Mirasvit
 
+<table>
+    <thead>
+        <tr>
+            <th colspan=2>Cache</th>
+            <th colspan=2>SEO</th>
+        </tr>
+        <tr>
+            <th>Magento 1 <br/>Full Page Cache</th>
+            <th>Magento 2 <br/>Page Cache Warmer</th>
+            <th>Magento 1 <br/>Advanced SEO suite</th>
+            <th>Magento 2 <br/>Advanced SEO suite</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr><th colspan=4> Product Page </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>
+      <tr><th colspan=4> Documentation </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>
+      <tr><th colspan=4> ChangeLog </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>
+      <tr><th colspan=4> Github </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>
+      <tr><th colspan=4> Links to the test site </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>
+      <tr><th colspan=4> Cron log </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>   
+      <tr><th colspan=4> Crontab tool </th></tr>
+      <tr>
+        <td><a href="https://mirasvit.com/magento-extensions/full-page-cache.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/full-page-cache-warmer.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-extensions/advanced-seo-suite.html">product page</a></td>
+        <td><a href="https://mirasvit.com/magento-2-extensions/advanced-seo-suite.html">product page</a></td>
+      </tr>         
+    </tbody>
+</table>
+
+<br>
+
 | FPC | FPC | SEO | SEO 
 |---|---|---|---
 |Magento 1|Magento 2|Magento 1|Magento 2
