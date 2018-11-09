@@ -106,6 +106,7 @@
 
 ## 3rd party
 
+- [Magento2: n98-magerun2, swiss army knife for Magento devs & admins](https://github.com/netz98/n98-magerun2)
 - [Magento1: AOE Scheduler for Magento](https://github.com/AOEpeople/Aoe_Scheduler)
 - [Magento2: Cron Schedule module](https://github.com/shockwavemk/magento2-module-cron-schedule)
 - [Magento2: Cron Scheduler by KiwiCommerce](https://kiwicommerce.co.uk/docs/cron-scheduler/)
