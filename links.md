@@ -113,3 +113,4 @@
 - [Magento2: Regenerate Url rewrites](https://github.com/olegkoval/magento2-regenerate_url_rewrites) extension by Oleg Koval
 - [Magento2: Varnish warmer](https://github.com/lizardmedia/varnish-warmer-magento2) - module for handling Varnish cache (flushing, regenerating)
 - [Magento2: Cadence's UrlDedup](https://github.com/cadencelabs/urldedup) - Category & Product url de-duplication
+- [M1 & M2: CacheTool](https://github.com/gordalina/cachetool) - Do anything with cache(s)
